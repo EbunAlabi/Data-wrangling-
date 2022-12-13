@@ -1,0 +1,902 @@
+[
+    {
+        "text": "@lauradfrancis it may be short but it provides so much joy \ud83e\udd17",
+        "created_at": "2022-12-13T17:22:40.000Z",
+        "edit_history_tweet_ids": [
+            "1602715640464396290"
+        ],
+        "author_id": "4196983835",
+        "id": "1602715640464396290"
+    },
+    {
+        "text": "@AmyKowalczyk4 can we join?",
+        "created_at": "2022-12-13T17:21:54.000Z",
+        "edit_history_tweet_ids": [
+            "1602715450139463682"
+        ],
+        "author_id": "4196983835",
+        "id": "1602715450139463682"
+    },
+    {
+        "text": "@ellemoria this team is making all of Goose's dreams come true",
+        "created_at": "2022-12-13T17:21:30.000Z",
+        "edit_history_tweet_ids": [
+            "1602715346343006213"
+        ],
+        "author_id": "4196983835",
+        "id": "1602715346343006213"
+    },
+    {
+        "text": "@MalloreeOrr would sign immediately",
+        "created_at": "2022-12-13T17:16:15.000Z",
+        "edit_history_tweet_ids": [
+            "1602714024281522177"
+        ],
+        "author_id": "4196983835",
+        "id": "1602714024281522177"
+    },
+    {
+        "text": "@thedextrosity Goose is lucky to have such a good friend",
+        "created_at": "2022-12-13T17:15:06.000Z",
+        "edit_history_tweet_ids": [
+            "1602713738347429888"
+        ],
+        "author_id": "4196983835",
+        "id": "1602713738347429888"
+    },
+    {
+        "text": "This is Goose and Raymond. Goose wanted to roll down a snowy hill but picked one that was too flat. Raymond is helping. 14/10 for both https://t.co/cje3SWxMdt",
+        "created_at": "2022-12-13T17:12:39.000Z",
+        "edit_history_tweet_ids": [
+            "1602713118295167001"
+        ],
+        "author_id": "4196983835",
+        "id": "1602713118295167001"
+    },
+    {
+        "text": "@15outof10 we love you Precious \u2764",
+        "created_at": "2022-12-13T15:58:34.000Z",
+        "edit_history_tweet_ids": [
+            "1602694477503729664"
+        ],
+        "author_id": "4196983835",
+        "id": "1602694477503729664"
+    },
+    {
+        "text": "@SomehowNowhere @dog_feelings @TYDISH LET\u2019S GOOO",
+        "created_at": "2022-12-13T15:16:03.000Z",
+        "edit_history_tweet_ids": [
+            "1602683776093413378"
+        ],
+        "author_id": "4196983835",
+        "id": "1602683776093413378"
+    },
+    {
+        "text": "@rupertsausage the bow tie is just amazing. happy birthday Rupert \ud83e\udd17",
+        "created_at": "2022-12-13T15:11:57.000Z",
+        "edit_history_tweet_ids": [
+            "1602682745964093441"
+        ],
+        "author_id": "4196983835",
+        "id": "1602682745964093441"
+    },
+    {
+        "text": "@JesRemer i knew these would be a good idea",
+        "created_at": "2022-12-13T04:10:54.000Z",
+        "edit_history_tweet_ids": [
+            "1602516387942920192"
+        ],
+        "author_id": "4196983835",
+        "id": "1602516387942920192"
+    },
+    {
+        "text": "@mechi_do he's fine!",
+        "created_at": "2022-12-12T22:10:50.000Z",
+        "edit_history_tweet_ids": [
+            "1602425770789556225"
+        ],
+        "author_id": "4196983835",
+        "id": "1602425770789556225"
+    },
+    {
+        "text": "@Pixietweetz just remember to get back up and keep going \u2764",
+        "created_at": "2022-12-12T22:08:38.000Z",
+        "edit_history_tweet_ids": [
+            "1602425220693954560"
+        ],
+        "author_id": "4196983835",
+        "id": "1602425220693954560"
+    },
+    {
+        "text": "@wwhatevenisthis an emotional rollercoaster tbh",
+        "created_at": "2022-12-12T21:59:37.000Z",
+        "edit_history_tweet_ids": [
+            "1602422950199795712"
+        ],
+        "author_id": "4196983835",
+        "id": "1602422950199795712"
+    },
+    {
+        "text": "@PupperNelson shake it off Nelson \ud83d\ude0a",
+        "created_at": "2022-12-12T21:55:31.000Z",
+        "edit_history_tweet_ids": [
+            "1602421919583723523"
+        ],
+        "author_id": "4196983835",
+        "id": "1602421919583723523"
+    },
+    {
+        "text": "@jenpack210 he's an inspiration",
+        "created_at": "2022-12-12T21:49:02.000Z",
+        "edit_history_tweet_ids": [
+            "1602420285919137822"
+        ],
+        "author_id": "4196983835",
+        "id": "1602420285919137822"
+    },
+    {
+        "text": "@Wolfefan such an admirable move",
+        "created_at": "2022-12-12T21:47:24.000Z",
+        "edit_history_tweet_ids": [
+            "1602419876886454272"
+        ],
+        "author_id": "4196983835",
+        "id": "1602419876886454272"
+    },
+    {
+        "text": "@pinkin07 his human assures us he's 100% fine \u2764",
+        "created_at": "2022-12-12T21:46:44.000Z",
+        "edit_history_tweet_ids": [
+            "1602419708367671303"
+        ],
+        "author_id": "4196983835",
+        "id": "1602419708367671303"
+    },
+    {
+        "text": "@SpectacledLangr nothing can slow him down",
+        "created_at": "2022-12-12T21:46:15.000Z",
+        "edit_history_tweet_ids": [
+            "1602419585910771726"
+        ],
+        "author_id": "4196983835",
+        "id": "1602419585910771726"
+    },
+    {
+        "text": "@TylerGiek WE WANT NAMES",
+        "created_at": "2022-12-12T21:45:28.000Z",
+        "edit_history_tweet_ids": [
+            "1602419389197914126"
+        ],
+        "author_id": "4196983835",
+        "id": "1602419389197914126"
+    },
+    {
+        "text": "This is Digsy. He came at those birds really fast. Life came at him faster. 13/10 https://t.co/YmTnxVBnN5",
+        "created_at": "2022-12-12T21:43:53.000Z",
+        "edit_history_tweet_ids": [
+            "1602418989845647369"
+        ],
+        "author_id": "4196983835",
+        "id": "1602418989845647369"
+    },
+    {
+        "text": "@PennStateTFXC the obvious star of this photoshoot!",
+        "created_at": "2022-12-12T21:13:56.000Z",
+        "edit_history_tweet_ids": [
+            "1602411454224863247"
+        ],
+        "author_id": "4196983835",
+        "id": "1602411454224863247"
+    },
+    {
+        "text": "@DeenaRay_author senior zoomies are the best type of zoomies",
+        "created_at": "2022-12-10T17:24:54.000Z",
+        "edit_history_tweet_ids": [
+            "1601629041206755328"
+        ],
+        "author_id": "4196983835",
+        "id": "1601629041206755328"
+    },
+    {
+        "text": "@AdamFeris1 DON\u2019T BLINK",
+        "created_at": "2022-12-10T17:21:10.000Z",
+        "edit_history_tweet_ids": [
+            "1601628098650247168"
+        ],
+        "author_id": "4196983835",
+        "id": "1601628098650247168"
+    },
+    {
+        "text": "@yoontaerin Spatas is the inspiration we all need",
+        "created_at": "2022-12-10T17:20:22.000Z",
+        "edit_history_tweet_ids": [
+            "1601627896585474048"
+        ],
+        "author_id": "4196983835",
+        "id": "1601627896585474048"
+    },
+    {
+        "text": "@Siddocooper he might be getting faster with age \ud83d\ude33",
+        "created_at": "2022-12-10T17:18:09.000Z",
+        "edit_history_tweet_ids": [
+            "1601627338864619521"
+        ],
+        "author_id": "4196983835",
+        "id": "1601627338864619521"
+    },
+    {
+        "text": "This is Spatas. He just turned 14 but has no plans of slowing down. 13/10 #SeniorPupSaturday https://t.co/P9PCjcXs2z",
+        "created_at": "2022-12-10T17:15:14.000Z",
+        "edit_history_tweet_ids": [
+            "1601626607491305472"
+        ],
+        "author_id": "4196983835",
+        "id": "1601626607491305472"
+    },
+    {
+        "text": "@ABitContrary @15outof10 thank you \u2764\ufe0f",
+        "created_at": "2022-12-09T20:52:18.000Z",
+        "edit_history_tweet_ids": [
+            "1601318846451027969"
+        ],
+        "author_id": "4196983835",
+        "id": "1601318846451027969"
+    },
+    {
+        "text": "@Bonobos hi bonobos i like your clothes",
+        "created_at": "2022-12-09T18:02:09.000Z",
+        "edit_history_tweet_ids": [
+            "1601276024695582720"
+        ],
+        "author_id": "4196983835",
+        "id": "1601276024695582720"
+    },
+    {
+        "text": "@username_1888 @Trupanion your pet will be in great hands \ud83e\udd17",
+        "created_at": "2022-12-09T17:23:10.000Z",
+        "edit_history_tweet_ids": [
+            "1601266213346316289"
+        ],
+        "author_id": "4196983835",
+        "id": "1601266213346316289"
+    },
+    {
+        "text": "Accidents happen. Kash asks that you please consider getting @Trupanion so you never have to send us a GoFundMe. Click the link below to get a quote. It's best to be puppared \u2764 #partner\n\nhttps://t.co/vUNBJ3ianu https://t.co/MDn3ByFbLr",
+        "created_at": "2022-12-09T17:09:02.000Z",
+        "edit_history_tweet_ids": [
+            "1601262656819953664"
+        ],
+        "author_id": "4196983835",
+        "id": "1601262656819953664"
+    },
+    {
+        "text": "This is Kash. She was a victim of a hit and run, leaving her with a broken jaw, road rash, and minor internal bleeding. Her jaw will be wired shut for the next month while she heals. We paid for the remainder of her care, and we wish her a speedy recovery. 13/10 https://t.co/4mOZ3qUfbZ https://t.co/AJ3u6vHd6I",
+        "created_at": "2022-12-09T17:09:00.000Z",
+        "edit_history_tweet_ids": [
+            "1601262649659965443"
+        ],
+        "author_id": "4196983835",
+        "id": "1601262649659965443"
+    },
+    {
+        "text": "@MBNONBINARY @15outof10 @TheAnimalPad THANK YOU MORGAN",
+        "created_at": "2022-12-09T16:01:47.000Z",
+        "edit_history_tweet_ids": [
+            "1601245733197414402"
+        ],
+        "author_id": "4196983835",
+        "id": "1601245733197414402"
+    },
+    {
+        "text": "@DavinaTrainsDog nobody was legally able to enter the property. Animal Pad and Keeping Finn had to go through legal avenues to obtain a warrant, but Morgan is safe now \u2764",
+        "created_at": "2022-12-09T15:51:09.000Z",
+        "edit_history_tweet_ids": [
+            "1601243060423254018"
+        ],
+        "author_id": "4196983835",
+        "id": "1601243060423254018"
+    },
+    {
+        "text": "@Tarun73140397 @15outof10 @TheAnimalPad thank you so much",
+        "created_at": "2022-12-09T15:47:49.000Z",
+        "edit_history_tweet_ids": [
+            "1601242219981193222"
+        ],
+        "author_id": "4196983835",
+        "id": "1601242219981193222"
+    },
+    {
+        "text": "@likesohushhush @15outof10 @TheAnimalPad thank you \u2764",
+        "created_at": "2022-12-09T15:46:38.000Z",
+        "edit_history_tweet_ids": [
+            "1601241922164736005"
+        ],
+        "author_id": "4196983835",
+        "id": "1601241922164736005"
+    },
+    {
+        "text": "@AnitaChancey @15outof10 @TheAnimalPad he's going to have the best life from now on \u2764",
+        "created_at": "2022-12-09T15:44:48.000Z",
+        "edit_history_tweet_ids": [
+            "1601241460669665284"
+        ],
+        "author_id": "4196983835",
+        "id": "1601241460669665284"
+    },
+    {
+        "text": "This is Morgan. He's been locked inside an abandoned property for the last SIX YEARS! You can help us cover his medical care by clicking the link below \u2764\ufe0f\u200d\ud83e\ude79\n\nhttps://t.co/zVzIwXnce9 https://t.co/sCEnv7MgDN",
+        "created_at": "2022-12-09T15:36:49.000Z",
+        "edit_history_tweet_ids": [
+            "1601239451174203392"
+        ],
+        "author_id": "4196983835",
+        "id": "1601239451174203392"
+    },
+    {
+        "text": "@ThatOneChick997 PERFECTLY FITTED AND STYLISH PANTS",
+        "created_at": "2022-12-09T01:05:53.000Z",
+        "edit_history_tweet_ids": [
+            "1601020272437510146"
+        ],
+        "author_id": "4196983835",
+        "id": "1601020272437510146"
+    },
+    {
+        "text": "@magtastic you were right!",
+        "created_at": "2022-12-09T00:57:33.000Z",
+        "edit_history_tweet_ids": [
+            "1601018175260336128"
+        ],
+        "author_id": "4196983835",
+        "id": "1601018175260336128"
+    },
+    {
+        "text": "@BDebuono twins",
+        "created_at": "2022-12-09T00:01:31.000Z",
+        "edit_history_tweet_ids": [
+            "1601004074895552516"
+        ],
+        "author_id": "4196983835",
+        "id": "1601004074895552516"
+    },
+    {
+        "text": "@almacchiato that would just be silly",
+        "created_at": "2022-12-08T23:38:02.000Z",
+        "edit_history_tweet_ids": [
+            "1600998164194025472"
+        ],
+        "author_id": "4196983835",
+        "id": "1600998164194025472"
+    },
+    {
+        "text": "@SophiaMaria2019 it\u2019s the finishing touch",
+        "created_at": "2022-12-08T23:25:39.000Z",
+        "edit_history_tweet_ids": [
+            "1600995047649861634"
+        ],
+        "author_id": "4196983835",
+        "id": "1600995047649861634"
+    },
+    {
+        "text": "@katefate it's one of a kind actually",
+        "created_at": "2022-12-08T23:22:53.000Z",
+        "edit_history_tweet_ids": [
+            "1600994354721701894"
+        ],
+        "author_id": "4196983835",
+        "id": "1600994354721701894"
+    },
+    {
+        "text": "@SwiftieTara13 you win",
+        "created_at": "2022-12-08T23:21:27.000Z",
+        "edit_history_tweet_ids": [
+            "1600993994418298885"
+        ],
+        "author_id": "4196983835",
+        "id": "1600993994418298885"
+    },
+    {
+        "text": "@cesar_wx it's cannon now",
+        "created_at": "2022-12-08T23:19:04.000Z",
+        "edit_history_tweet_ids": [
+            "1600993391243845633"
+        ],
+        "author_id": "4196983835",
+        "id": "1600993391243845633"
+    },
+    {
+        "text": "@aderbeed well one of you has gotta change and it's not gonna be the dog...",
+        "created_at": "2022-12-08T23:17:39.000Z",
+        "edit_history_tweet_ids": [
+            "1600993036980441089"
+        ],
+        "author_id": "4196983835",
+        "id": "1600993036980441089"
+    },
+    {
+        "text": "@410fredo yes we can all sleep in peace now",
+        "created_at": "2022-12-08T23:16:37.000Z",
+        "edit_history_tweet_ids": [
+            "1600992776560119809"
+        ],
+        "author_id": "4196983835",
+        "id": "1600992776560119809"
+    },
+    {
+        "text": "@DianaRuggOnTV mystery solved",
+        "created_at": "2022-12-08T23:15:34.000Z",
+        "edit_history_tweet_ids": [
+            "1600992512176439298"
+        ],
+        "author_id": "4196983835",
+        "id": "1600992512176439298"
+    },
+    {
+        "text": "I just need you all to see this dog wearing pants... 14/10 https://t.co/QS37Lu9qHI",
+        "created_at": "2022-12-08T23:13:59.000Z",
+        "edit_history_tweet_ids": [
+            "1600992113872621568"
+        ],
+        "author_id": "4196983835",
+        "id": "1600992113872621568"
+    },
+    {
+        "text": "@stuffedpuffs omg we see it",
+        "created_at": "2022-12-08T22:52:07.000Z",
+        "edit_history_tweet_ids": [
+            "1600986610169831424"
+        ],
+        "author_id": "4196983835",
+        "id": "1600986610169831424"
+    },
+    {
+        "text": "@daisy8857 OMG MAY'S HAT IS PERFECT ON HER",
+        "created_at": "2022-12-08T19:59:20.000Z",
+        "edit_history_tweet_ids": [
+            "1600943127359004681"
+        ],
+        "author_id": "4196983835",
+        "id": "1600943127359004681"
+    },
+    {
+        "text": "@CierraCierra25 he had to get creative",
+        "created_at": "2022-12-08T19:51:06.000Z",
+        "edit_history_tweet_ids": [
+            "1600941054403944455"
+        ],
+        "author_id": "4196983835",
+        "id": "1600941054403944455"
+    },
+    {
+        "text": "@nayf_cars would absolutely let her pile on tbh",
+        "created_at": "2022-12-08T19:39:07.000Z",
+        "edit_history_tweet_ids": [
+            "1600938039055814659"
+        ],
+        "author_id": "4196983835",
+        "id": "1600938039055814659"
+    },
+    {
+        "text": "@dalary_dalton at least not around Django",
+        "created_at": "2022-12-08T19:34:42.000Z",
+        "edit_history_tweet_ids": [
+            "1600936930606256157"
+        ],
+        "author_id": "4196983835",
+        "id": "1600936930606256157"
+    },
+    {
+        "text": "@DogDoorPlay my favorite line was \"bald pate akissing\"",
+        "created_at": "2022-12-08T19:28:50.000Z",
+        "edit_history_tweet_ids": [
+            "1600935451761774615"
+        ],
+        "author_id": "4196983835",
+        "id": "1600935451761774615"
+    },
+    {
+        "text": "@509RhymeAnimal all of the above tbh",
+        "created_at": "2022-12-08T19:28:41.000Z",
+        "edit_history_tweet_ids": [
+            "1600935415430942722"
+        ],
+        "author_id": "4196983835",
+        "id": "1600935415430942722"
+    },
+    {
+        "text": "@dsc250 WELCOME DAVID",
+        "created_at": "2022-12-08T19:25:53.000Z",
+        "edit_history_tweet_ids": [
+            "1600934712272424984"
+        ],
+        "author_id": "4196983835",
+        "id": "1600934712272424984"
+    },
+    {
+        "text": "@MatthewFace nothing will stop Django when he's set his mind to it",
+        "created_at": "2022-12-08T19:24:00.000Z",
+        "edit_history_tweet_ids": [
+            "1600934237808562178"
+        ],
+        "author_id": "4196983835",
+        "id": "1600934237808562178"
+    },
+    {
+        "text": "@lisaluvs2laff that's one of my favorite parts!",
+        "created_at": "2022-12-08T19:19:50.000Z",
+        "edit_history_tweet_ids": [
+            "1600933185860341775"
+        ],
+        "author_id": "4196983835",
+        "id": "1600933185860341775"
+    },
+    {
+        "text": "@joemcken IT\u2019S THAT SIMPLE",
+        "created_at": "2022-12-08T19:19:44.000Z",
+        "edit_history_tweet_ids": [
+            "1600933164158836736"
+        ],
+        "author_id": "4196983835",
+        "id": "1600933164158836736"
+    },
+    {
+        "text": "@MonstrousJaffa signs of true happiness \ud83e\udd17",
+        "created_at": "2022-12-08T19:19:20.000Z",
+        "edit_history_tweet_ids": [
+            "1600933063659294760"
+        ],
+        "author_id": "4196983835",
+        "id": "1600933063659294760"
+    },
+    {
+        "text": "@MelRunsForFun he's just following the rules",
+        "created_at": "2022-12-08T19:18:39.000Z",
+        "edit_history_tweet_ids": [
+            "1600932888647766030"
+        ],
+        "author_id": "4196983835",
+        "id": "1600932888647766030"
+    },
+    {
+        "text": "@The__Divya SO HAPPY",
+        "created_at": "2022-12-08T19:18:02.000Z",
+        "edit_history_tweet_ids": [
+            "1600932734792531969"
+        ],
+        "author_id": "4196983835",
+        "id": "1600932734792531969"
+    },
+    {
+        "text": "@csm0829 omg \ud83d\ude2d",
+        "created_at": "2022-12-08T19:17:03.000Z",
+        "edit_history_tweet_ids": [
+            "1600932486200307712"
+        ],
+        "author_id": "4196983835",
+        "id": "1600932486200307712"
+    },
+    {
+        "text": "@GRUMM9301 case closed",
+        "created_at": "2022-12-08T19:14:48.000Z",
+        "edit_history_tweet_ids": [
+            "1600931921613447168"
+        ],
+        "author_id": "4196983835",
+        "id": "1600931921613447168"
+    },
+    {
+        "text": "This is Django. He's not allowed to sit on people's laps at the table, but he found a loophole. 13/10 https://t.co/Qc3KGnXllB",
+        "created_at": "2022-12-08T19:11:45.000Z",
+        "edit_history_tweet_ids": [
+            "1600931152100933632"
+        ],
+        "author_id": "4196983835",
+        "id": "1600931152100933632"
+    },
+    {
+        "text": "@Turfthedog @Seahawks @12s rest easy good boy \u2764",
+        "created_at": "2022-12-08T18:57:34.000Z",
+        "edit_history_tweet_ids": [
+            "1600927585302589440"
+        ],
+        "author_id": "4196983835",
+        "id": "1600927585302589440"
+    },
+    {
+        "text": "@DGutierreztv Nala definitely pulls it off",
+        "created_at": "2022-12-08T16:13:19.000Z",
+        "edit_history_tweet_ids": [
+            "1600886248016556032"
+        ],
+        "author_id": "4196983835",
+        "id": "1600886248016556032"
+    },
+    {
+        "text": "@onetwocross Walter doesn't take any nonsense",
+        "created_at": "2022-12-08T01:59:55.000Z",
+        "edit_history_tweet_ids": [
+            "1600671486095884288"
+        ],
+        "author_id": "4196983835",
+        "id": "1600671486095884288"
+    },
+    {
+        "text": "@SammyMxFluff oh phew! we were worried for a moment there",
+        "created_at": "2022-12-08T00:36:17.000Z",
+        "edit_history_tweet_ids": [
+            "1600650435878076416"
+        ],
+        "author_id": "4196983835",
+        "id": "1600650435878076416"
+    },
+    {
+        "text": "@biagioDebbie @weimcrime @coverdog5 @SirNorbit omg the teef",
+        "created_at": "2022-12-08T00:36:01.000Z",
+        "edit_history_tweet_ids": [
+            "1600650368253399042"
+        ],
+        "author_id": "4196983835",
+        "id": "1600650368253399042"
+    },
+    {
+        "text": "@RyCJordan we love Walter \ud83e\udd17",
+        "created_at": "2022-12-08T00:20:58.000Z",
+        "edit_history_tweet_ids": [
+            "1600646583405666306"
+        ],
+        "author_id": "4196983835",
+        "id": "1600646583405666306"
+    },
+    {
+        "text": "@SedaryRaymaker yes safety first always",
+        "created_at": "2022-12-07T23:40:49.000Z",
+        "edit_history_tweet_ids": [
+            "1600636478681325568"
+        ],
+        "author_id": "4196983835",
+        "id": "1600636478681325568"
+    },
+    {
+        "text": "@Rea_Booker THE EMBARASSED TAIL WAG  \ud83d\ude2d",
+        "created_at": "2022-12-07T23:39:09.000Z",
+        "edit_history_tweet_ids": [
+            "1600636059355938819"
+        ],
+        "author_id": "4196983835",
+        "id": "1600636059355938819"
+    },
+    {
+        "text": "@ADOPTPetShelter he appreciates your discretion",
+        "created_at": "2022-12-07T23:35:53.000Z",
+        "edit_history_tweet_ids": [
+            "1600635237599412224"
+        ],
+        "author_id": "4196983835",
+        "id": "1600635237599412224"
+    },
+    {
+        "text": "@emmasofia3 they have a lot of feelings about this",
+        "created_at": "2022-12-07T23:35:12.000Z",
+        "edit_history_tweet_ids": [
+            "1600635063619698690"
+        ],
+        "author_id": "4196983835",
+        "id": "1600635063619698690"
+    },
+    {
+        "text": "@surfingbean1999 PLEASE DON'T MAKE A FUSS",
+        "created_at": "2022-12-07T23:32:36.000Z",
+        "edit_history_tweet_ids": [
+            "1600634410830905344"
+        ],
+        "author_id": "4196983835",
+        "id": "1600634410830905344"
+    },
+    {
+        "text": "@rudraverykapila we're happy you're here \ud83e\udd17",
+        "created_at": "2022-12-07T23:30:41.000Z",
+        "edit_history_tweet_ids": [
+            "1600633927378636800"
+        ],
+        "author_id": "4196983835",
+        "id": "1600633927378636800"
+    },
+    {
+        "text": "@Lets_Go__Flyers we love that narrative \u2764",
+        "created_at": "2022-12-07T23:30:20.000Z",
+        "edit_history_tweet_ids": [
+            "1600633840749498369"
+        ],
+        "author_id": "4196983835",
+        "id": "1600633840749498369"
+    },
+    {
+        "text": "@lunar_starshine he can't help that he's an absolute UNIT",
+        "created_at": "2022-12-07T23:27:50.000Z",
+        "edit_history_tweet_ids": [
+            "1600633212681715714"
+        ],
+        "author_id": "4196983835",
+        "id": "1600633212681715714"
+    },
+    {
+        "text": "@Johnsense38 a simple mix up",
+        "created_at": "2022-12-07T23:22:05.000Z",
+        "edit_history_tweet_ids": [
+            "1600631763604209666"
+        ],
+        "author_id": "4196983835",
+        "id": "1600631763604209666"
+    },
+    {
+        "text": "@PeterCooper he's perfectly capable, thank you",
+        "created_at": "2022-12-07T23:19:13.000Z",
+        "edit_history_tweet_ids": [
+            "1600631041319993344"
+        ],
+        "author_id": "4196983835",
+        "id": "1600631041319993344"
+    },
+    {
+        "text": "@catladyfurever every Walter deserves a castle imo",
+        "created_at": "2022-12-07T23:17:58.000Z",
+        "edit_history_tweet_ids": [
+            "1600630729561571328"
+        ],
+        "author_id": "4196983835",
+        "id": "1600630729561571328"
+    },
+    {
+        "text": "@ElrodLorraine just rearranging the furniture",
+        "created_at": "2022-12-07T23:17:36.000Z",
+        "edit_history_tweet_ids": [
+            "1600630634455498753"
+        ],
+        "author_id": "4196983835",
+        "id": "1600630634455498753"
+    },
+    {
+        "text": "@JerseySuave4 Walter is the hero of his own story",
+        "created_at": "2022-12-07T23:16:37.000Z",
+        "edit_history_tweet_ids": [
+            "1600630388581433344"
+        ],
+        "author_id": "4196983835",
+        "id": "1600630388581433344"
+    },
+    {
+        "text": "@tiffanyclay we can't blame you",
+        "created_at": "2022-12-07T23:15:44.000Z",
+        "edit_history_tweet_ids": [
+            "1600630165314347008"
+        ],
+        "author_id": "4196983835",
+        "id": "1600630165314347008"
+    },
+    {
+        "text": "This is Walter. He kinda got stuck. Just for a second. Doesn\u2019t need you to make a big fuss about it, thanks. 12/10 https://t.co/q5Dr7TeTA7",
+        "created_at": "2022-12-07T23:12:50.000Z",
+        "edit_history_tweet_ids": [
+            "1600629438240235522"
+        ],
+        "author_id": "4196983835",
+        "id": "1600629438240235522"
+    },
+    {
+        "text": "@AzaelOfficial INNOCENT",
+        "created_at": "2022-12-07T19:24:27.000Z",
+        "edit_history_tweet_ids": [
+            "1600571961339363328"
+        ],
+        "author_id": "4196983835",
+        "id": "1600571961339363328"
+    },
+    {
+        "text": "@vyctorya omg yes Treacle",
+        "created_at": "2022-12-07T17:35:54.000Z",
+        "edit_history_tweet_ids": [
+            "1600544645943115796"
+        ],
+        "author_id": "4196983835",
+        "id": "1600544645943115796"
+    },
+    {
+        "text": "@iamjustacutedog her face says it all",
+        "created_at": "2022-12-07T17:31:41.000Z",
+        "edit_history_tweet_ids": [
+            "1600543582770925568"
+        ],
+        "author_id": "4196983835",
+        "id": "1600543582770925568"
+    },
+    {
+        "text": "@PunMasterTyler she's got things to do and places to pee",
+        "created_at": "2022-12-07T17:26:00.000Z",
+        "edit_history_tweet_ids": [
+            "1600542152357986304"
+        ],
+        "author_id": "4196983835",
+        "id": "1600542152357986304"
+    },
+    {
+        "text": "@MaeFran09712909 it couldn\u2019t hurt",
+        "created_at": "2022-12-07T17:22:22.000Z",
+        "edit_history_tweet_ids": [
+            "1600541238855233536"
+        ],
+        "author_id": "4196983835",
+        "id": "1600541238855233536"
+    },
+    {
+        "text": "@FalanaDhiikana_ she's definitely the boss",
+        "created_at": "2022-12-07T17:19:19.000Z",
+        "edit_history_tweet_ids": [
+            "1600540469246803976"
+        ],
+        "author_id": "4196983835",
+        "id": "1600540469246803976"
+    },
+    {
+        "text": "@zedtechgirl she can't just sit here all day!",
+        "created_at": "2022-12-07T17:19:06.000Z",
+        "edit_history_tweet_ids": [
+            "1600540415991713793"
+        ],
+        "author_id": "4196983835",
+        "id": "1600540415991713793"
+    },
+    {
+        "text": "This is Gauna. She wants to know if you're going to get this bath over with or what. She's a very busy lady. 13/10 https://t.co/mWrx0V8wbQ",
+        "created_at": "2022-12-07T17:17:30.000Z",
+        "edit_history_tweet_ids": [
+            "1600540011698569218"
+        ],
+        "author_id": "4196983835",
+        "id": "1600540011698569218"
+    },
+    {
+        "text": "@TEvans_89 we think she\u2019s a cutie \u263a\ufe0f",
+        "created_at": "2022-12-07T15:25:42.000Z",
+        "edit_history_tweet_ids": [
+            "1600511876445642759"
+        ],
+        "author_id": "4196983835",
+        "id": "1600511876445642759"
+    },
+    {
+        "text": "@MasonMBB @caps_gmu @HeelingHouse @MasonAthletics @GeorgeMasonU @dog_feelings spot on rating \ud83d\ude0a",
+        "created_at": "2022-12-06T23:42:54.000Z",
+        "edit_history_tweet_ids": [
+            "1600274615443415040"
+        ],
+        "author_id": "4196983835",
+        "id": "1600274615443415040"
+    },
+    {
+        "text": "@sara_shhhh great work Pico!",
+        "created_at": "2022-12-06T23:40:29.000Z",
+        "edit_history_tweet_ids": [
+            "1600274006107643904"
+        ],
+        "author_id": "4196983835",
+        "id": "1600274006107643904"
+    },
+    {
+        "text": "@Kcetmix must respect the boop zone",
+        "created_at": "2022-12-06T21:00:34.000Z",
+        "edit_history_tweet_ids": [
+            "1600233762863910912"
+        ],
+        "author_id": "4196983835",
+        "id": "1600233762863910912"
+    },
+    {
+        "text": "@p0gdassh isn\u2019t he just \ud83e\udd79",
+        "created_at": "2022-12-06T20:58:15.000Z",
+        "edit_history_tweet_ids": [
+            "1600233179926786049"
+        ],
+        "author_id": "4196983835",
+        "id": "1600233179926786049"
+    }
+]
